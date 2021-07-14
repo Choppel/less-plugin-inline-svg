@@ -100,10 +100,10 @@ The produced output would look like this:
 
 ```
 
-## Helpe syntax
+## Help syntax
 
 ```less
-background-image: inline-svg('<<image path>>', '<<ID attribute of SVG node>>', '<<custom styling attributes that will be passed to found SVG node>>');
+background-image: inline-svg('<<image path>>', '<<ID attribute of multiple SVG nodes separated by space>>', '<<custom styling attributes that will be passed to found SVG node>>');
 ```
 
 ## Interpolations
